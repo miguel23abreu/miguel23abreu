@@ -12,5 +12,5 @@
 </div><br>
 <div align="center">
 <img src="https://giffiles.alphacoders.com/208/208168.gif" alt="arthur morgan" width="50%">
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/miguel23abreu/miguel23abreu/blob/output/github-contribution-grid-snake.svg)
 </div>
